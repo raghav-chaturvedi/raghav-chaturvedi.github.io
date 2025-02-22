@@ -16,9 +16,9 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content in markdown
-homeIntroTitle = 'Hi!'
+#homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am  \\
+I am   \\
 Feel free to read [about myself](/about) or to look at my [posts](/posts).
 """
 
@@ -43,10 +43,10 @@ showFooter = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/tomaselli-/"
+url = "https://www.linkedin.com/in/raghav-chaturvedi-82b31616b"
 
 [[params.social]]
-name = "medium"
+name = "instagram"
 url = "https://medium.com/@tomfran"
 
 [[params.social]]
