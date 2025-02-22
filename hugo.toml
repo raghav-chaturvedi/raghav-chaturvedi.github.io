@@ -18,7 +18,13 @@ hideHeader = false
 # Intro on main page, content in markdown
 #homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am   \\
+I am a PhD candidate in applied physics at Cornell University. My research falls broadly in the regime of experimental condensed matter
+physics. I use the platform of van der Waals semiconductors to discover, manipulate, and probe
+novel quantum states of matter. So far in my PhD, I've employed advanced quantum transport
+and optical techniques to study the physics of exciton condensation, Bose-Fermi mixtures and
+strongly correlated electronic phases in moire materials.
+
+I hold a bachelor's degree in engineering physics from the Indian Institute of Technology (IIT), Delhi, India. \\
 Feel free to read [about myself](/about) or to look at my [posts](/posts).
 """
 
