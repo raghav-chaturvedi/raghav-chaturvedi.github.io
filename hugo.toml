@@ -26,7 +26,7 @@ strongly correlated electronic phases in moire materials.
 
 I hold a bachelor's degree in engineering physics from the Indian Institute of Technology (IIT), Delhi, India. Feel free to check my full cv here.\\
 
-In my free time, I like to play football (the more popular kind) and improve my cooking. I'm also a hobbyist in machine learning, you can find somethings I've been recently working on in [projects](\projects) 
+In my free time, I like to play football (the more popular kind) and improve my cooking. I'm also a hobbyist in machine learning, you can find somethings I've been recently working on in [posts](\posts) 
 """
 
 
@@ -66,8 +66,8 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "projects"
-url = "/projects"
+name = "posts"
+url = "/posts"
 
 [[params.menu]]
 name = "about"
