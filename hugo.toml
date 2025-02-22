@@ -1,6 +1,6 @@
-baseURL = 'https://tomfran.github.io'
+baseURL = 'https://raghav-chaturvedi.github.io'
 languageCode = 'en-us'
-title = 'Francesco Tomaselli'
+title = 'Raghav Chaturvedi'
 theme = 'typo'
 
 [taxonomies]
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Home meta description
-description = "A tech-oriented personal blog curated by Francesco Tomaselli."
+description = "PhD Candidate in Applied Physics at Cornell University"
 
 # Appearance settings
 theme = 'auto'
