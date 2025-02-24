@@ -30,8 +30,8 @@ I hold a bachelor's degree in engineering physics from the Indian Institute of T
 singleDateFormat = '2 Jan 2006'
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+#homeCollectionTitle = 'Posts'
+#homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
