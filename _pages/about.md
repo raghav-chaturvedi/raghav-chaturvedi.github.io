@@ -29,6 +29,6 @@ latest_posts:
 
 My research falls broadly in the regime of experimental condensed matter physics. I use the platform of van der Waals semiconductors discover, manipulate, and probe novel quantum states of matter. Working in the lab of Prof. Kin Fai Mak and Prof. Jie Shan at Cornell University, I've employed advanced quantum transport and optical techniques to study the physics of exciton condensation, Bose-Fermi mixtures and moiré materials. 
 
-Before coming to Ithaca, I spent the first 21 years of my life in Delhi, India - a city burdened with smog and noise yet still vibrant with resilience and history. In 2021, I completed my undergraduate studies at the Indian Institute of Technology (IIT) there.
+Before coming to Ithaca, I completed my undergraduate studies at the Indian Institute of Technology (IIT), Delhi, India, in 2021.
 
-In my free time, I like to play football, practice my French, improve my cooking and learn about machine learning. You can find some of my personal projects [here](/raghav-chaturvedi.github.io/projects/).
+In my free time, I like to play football, practice my French, improve my cooking and learn about machine learning. You can find some of my personal projects [here](/raghav-chaturvedi.github.io/blog/).
