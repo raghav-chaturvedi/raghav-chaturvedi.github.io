@@ -480,7 +480,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://com.manychat.com", "_blank");
         },
       },{
       id: 'light-theme',
