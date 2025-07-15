@@ -39,9 +39,9 @@ ninja.data = [{
           },
         },{id: "post-direct-preference-optimization-with-a-swimmer-robot",
         
-          title: "Direct preference optimization with a swimmer robot",
+          title: "direct preference optimization with a swimmer robot",
         
-        description: "an implementation of direct preference optimization (DPO)",
+        description: "RL which is not really RL",
         section: "Posts",
         handler: () => {
           
