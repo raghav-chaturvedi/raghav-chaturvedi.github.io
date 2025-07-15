@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-direct-preference-optimzation-with-a-swimmer-robot",
+        },{id: "post-direct-preference-optimization-with-a-swimmer-robot",
         
-          title: "Direct preference optimzation with a swimmer robot",
+          title: "Direct preference optimization with a swimmer robot",
         
         description: "an implementation of direct preference optimization (DPO)",
         section: "Posts",
