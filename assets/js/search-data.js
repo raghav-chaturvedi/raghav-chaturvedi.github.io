@@ -157,7 +157,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://com.manychat.com", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
