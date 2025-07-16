@@ -46,6 +46,6 @@ scholar_userid: 5Wv2hAQAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://the-brandidentity.com/uploads/articles/2025/05/manychats-chronically-online-magazine-explores-the-fluid-ever-shifting-nature-of-internet-culture/Chronically-Online-Mag-Manychat-01.jpg # can be png, svg, jpg
-  title: Chronically Online Magazine
-  url: https://com.manychat.com
+  logo:  # can be png, svg, jpg
+  title: 
+  url: 
